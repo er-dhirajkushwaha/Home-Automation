@@ -1,8 +1,8 @@
 
 // Blynk credentials
-#define BLYNK_TEMPLATE_ID "TMPL6n0R44Su5"
-#define BLYNK_TEMPLATE_NAME "Home Automation"
-#define BLYNK_AUTH_TOKEN "s0wwntolxUfXCxN-paAiZWP07lR4Jucg"
+#define BLYNK_TEMPLATE_ID "your_template_id"
+#define BLYNK_TEMPLATE_NAME "your_template_name"
+#define BLYNK_AUTH_TOKEN "your_auth_token"
 
 // header files
 #include <WiFi.h>
@@ -10,8 +10,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // wifi credentials
-const char* ssid = "dhiraj@vianet";
-const char* password = "dhirajdhiraj";
+const char* ssid = "your_ssid_name";
+const char* password = "your_ssid_password";
 
 
 // Pin for controlling the LED
